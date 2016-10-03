@@ -1,0 +1,21 @@
+.nav-story {
+  background-color: lightblue;
+  border-style: dashed;
+  width:30%;
+  font-size: 150%;
+  color: #03069f;
+  line-height: 150%;
+}
+.navigation {
+  text-decoration: none;
+  color: brown;
+}
+.nav-story:hover {
+  background-color:pink;
+}
+body {
+  background-color: #56789a;
+  color: #b1ff6b;
+  column-count: 2;
+  font-family: fantasy;
+}
